@@ -1,6 +1,6 @@
 # Fraudulent_activities
 
-Le but de ce challenge est de construire un modèle qui permet de prédire si une activité d’achat sur un site de E-commerce est frauduleuse.
+Le but de ce challenge est de construire un modèle qui permet de détecter si une activité d’achat sur un site d'E-commerce est frauduleuse.
 
 Après avoir étudié la donnée et réalisé le feature engineering, nous avons utilisé un modèle random forest. Celui-ci donne **95.7% de bonnes prédictions**. Comparé à un modèle base line qui consistant à considérer que tous les achats ne sont pas des fraudes (accuracy score de 90.64%), le modèle fait mieux que la base line ce qui est réconfortant au sujet de l’intérêt du modèle utilisé.
 
